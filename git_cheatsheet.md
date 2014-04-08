@@ -1,4 +1,3 @@
-
   add                       merge-octopus
   add--interactive          merge-one-file
   am                        merge-ours
@@ -79,4 +78,4 @@
   merge-base                whatchanged
   merge-file                write-tree
   merge-index
-
+add something
